@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![Rastgele bir görsel](Ekran görüntüsü 2024-10-12 231125.png)
 
-## [Installation](https://github.com/Sev-in/kodluyoruzilkrepo.git)
+## [Installation](resim0.png)
 
 Öncelikle projeyi clonelayın. 
 ``` 
